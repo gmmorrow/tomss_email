@@ -14,8 +14,6 @@ Code is on index.html file on master branch.
 
 6. Added < tr > in footer logo section (Line 803)
 
-7. Take out "style/css" (Line 19)
-
 8. alt= "TOM"--> "TOMS"(Line 242)
         
 9. alt= UPDATE ALT TEXT -->Women's Slipons(Line 278)
