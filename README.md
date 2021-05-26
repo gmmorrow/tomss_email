@@ -6,7 +6,7 @@ Code is on index.html file on master branch.
 
 2. Added .jpg to src="" (Line 468)
 
-3. Took ot {/if} (Line 451)
+3. Took out {/if} (Line 451)
 
 4. on on, took out the extra on (Line 208)
 
