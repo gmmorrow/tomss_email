@@ -12,7 +12,7 @@ Code is on index.html file on master branch.
 
 5. Grassrots -->Grassroots(Line 586)
 
-6. Added <tr> in footer logo section (Line 803)
+6. Added < tr > in footer logo section (Line 803)
 
 7. Take out "style/css" (Line 19)
 
