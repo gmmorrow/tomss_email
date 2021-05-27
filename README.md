@@ -23,3 +23,5 @@ Code is on index.html file on master branch.
 10. alt= UPDATE ALT TEXT -->Mens's Alpargatas(Line 364)
         
 11. Single to double quotes (Line 600)
+
+12. Added bottom to padding-bottom (Line 854)
