@@ -14,6 +14,8 @@ Code is on index.html file on master branch.
 
 6. Added < tr > in footer logo section (Line 803)
 
+7. Added "-self" to css align property; align has to be followed by contents, item, or self(Line 193)
+
 8. alt= "TOM"--> "TOMS"(Line 242)
         
 9. alt= UPDATE ALT TEXT -->Women's Slipons(Line 278)
