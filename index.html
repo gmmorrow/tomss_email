@@ -1,3 +1,5 @@
+{$linkAppend = "utm_source=cordial&utm_medium=email&utm_campaign=us_sp21_promo_fs_25bestalps_core_wmk_lfs_rb_ods"}
+
 <!DOCTYPE html
     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"
@@ -239,7 +241,7 @@
                                                                     <tr>
                                                                         <td valign="top" align="center"
                                                                             class="em_full_img">
-                                                                            <a href="'https://www.toms.com'|appendQueryString:$linkAppend"
+                                                                            <a href="{'https://www.toms.com'|appendQueryString:$linkAppend}"
                                                                                 data-crdl-key="TOMS logo"
                                                                                 data-crdl-tags="toms_logo"
                                                                                 target="_blank"
@@ -361,7 +363,7 @@
                                                                                 target="_blank"
                                                                                 style="text-decoration:none;">
                                                                                 <img src="https://www.toms.com/on/demandware.static/Sites-Site/Sites/email/batch/evergreen/us_wk9_wm_core_05.jpg"
-                                                                                    width="640" alt="Mens Slipons"
+                                                                                    width="640" alt="Mens Alpargatas"
                                                                                     border="0"
                                                                                     style="display:block; max-width:640px;"> </a>
                                                                         </td>
@@ -822,7 +824,7 @@
                                                 <td class="em_defaultlink em_ftr" valign="top" align="center"
                                                     style="font-family:'Degular', Arial, Helvetica, sans-serif; font-size:15px; line-height:20px; color:#9b9b9b; font-weight:500; padding-left:30px; padding-right:30px;">
                                                     Email Preferences &nbsp; <a
-                                                        href="{'https://preferences.e.toms.com/preferences?cid='|cat:$contact.id}"
+                                                        href="{'https://preferences.e.toms.com/preferences?cid='|appendQueryString:$linkAppend|cat:$contact.id}"
                                                         data-crdl-key="Email Pref"
                                                         data-crdl-tags="email_preferences_footer" target="_blank"
                                                         style="color:#9b9b9b; text-decoration:underline; white-space:nowrap;">Update
@@ -854,7 +856,7 @@
                                                     <a href="'https://www.toms.com/us/faq.html'|appendQueryString:$linkAppend|cat:''"
                                                         data-crdl-key="FAQ" data-crdl-tags
                                                         style="color: #767676;">FAQ</a> |
-                                                    <a href="'https://www.toms.com/us/faq.html'|appendQueryString:$linkAppend|cat:'#contact-methods'"
+                                                    <a href="'https://www.toms.com/us/faq.html'|appendQueryString:$linkAppend|cat:'$contact-methods'"
                                                         data-crdl-key="CONTACT US" data-crdl-tags
                                                         style="color: #767676;">Contact Us</a> |
                                                     <a href="'https://www.toms.com/us/faq.html'|appendQueryString:$linkAppend|cat:'#faq-6b'"
@@ -864,10 +866,10 @@
                                                         data-crdl-key="FIND A TOMS STORE" data-crdl-tags
                                                         style="color: #767676;">Find a TOMS store</a>
                                                     <br>
-                                                    <a href="'https://preferences.e.toms.com/preferences?cid='|cat:$contact.id"
+                                                    <a href="'https://preferences.e.toms.com/preferences?cid='|appendQueryString:$linkAppend|cat:$contact.id"
                                                         data-crdl-key="Unsubscribe Header" data-crdl-tags="unsubscribe"
                                                         style="color: #767676;">Manage Preferences</a> | <a
-                                                        href=" 'https://preferences.e.toms.com/us?cid='|cat:$contact.id"
+                                                        href=" 'https://preferences.e.toms.com/us?cid='|appendQueryString:$linkAppend|cat:$contact.id"
                                                         data-crdl-key="Unsubscribe Footer" data-crdl-tags="unsubscribe"
                                                         style="color: #767676;">Unsubscribe</a> | <a
                                                         href="'https://www.toms.com/us/privacy-policy.html'|appendQueryString:$linkAppend|cat:''"
