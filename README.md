@@ -25,3 +25,11 @@ Code is on index.html file on master branch.
 11. Single to double quotes (Line 600)
 
 12. Changed # --> $ (Line 859)
+
+13. Added |appendQueryString:$linkAppend(Line 827)
+
+14. Added |appendQueryString:$linkAppend|(Line 869)
+
+15. Added |appendQueryString:$linkAppend|(Line 872)
+
+ 
