@@ -13,9 +13,9 @@ Code is on index.html file on master branch.
 
 5. Grassrots -->Grassroots(Line 586)
 
-6. Added < tr > in footer logo section (Line 803)
+6. Changed # --> $(Line 810)
 
-7. Added "-self" to css align property; align has to be followed by contents, item, or self(Line 193)
+7. Changed # --> $(Line 782)
 
 8. alt= "TOM"--> "TOMS"(Line 242)
         
