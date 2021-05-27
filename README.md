@@ -20,6 +20,6 @@ Code is on index.html file on master branch.
         
 9. alt= UPDATE ALT TEXT -->Women's Slipons(Line 278)
         
-10. alt= UPDATE ALT TEXT -->Mens's Slipons(Line 364)
+10. alt= UPDATE ALT TEXT -->Mens's Alpargatas(Line 364)
         
 11. Single to double quotes (Line 600)
